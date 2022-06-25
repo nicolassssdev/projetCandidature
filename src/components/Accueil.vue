@@ -225,7 +225,7 @@
         <p class="text-justify text-xl leading-loose mt-4">
           nicolas.lanotte@viacesi.fr
         </p>
-        <a href="https://github.com/nicolas2ul/"
+        <a href="https://github.com/nicolassssdev/projetCandidature/blob/main/src/components/Accueil.vue"
           ><img class="h-16 ml-1" src="./icons/E045.svg" alt=""
         /></a>
         <router-link to="/Information"
