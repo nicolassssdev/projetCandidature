@@ -1,6 +1,6 @@
 # Projet site web
 
-Ce projet en Vue.js et Tailwindcss a été fait avec ♥️  
+Ce projet a été fait avec ♥️ avec Vue.js et Tailwindcss.  
 
 
 
